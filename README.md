@@ -14,10 +14,6 @@ A simple full-stack CRUD app for managing student records. Built as a practice p
 - React frontend connected through Axios
 - Data stored in Supabase (PostgreSQL)
 
-## 📸 Screenshot
-
-![App Screenshot](screenshot.png)
-
 ## 🚀 Tech Stack
 
 | Layer             | Technology            |
