@@ -30,6 +30,6 @@ Follow these steps to set up the project from scratch.
 1. Clone this repository:
 
    ```bash
-   git clone <insert-your-github-repo-url-here>
-   cd student-management/backend
+   git clone https://github.com/Duanemaster/student-management-system.git
+   cd student-management-system/backend
    ```
