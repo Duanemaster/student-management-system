@@ -1,8 +1,8 @@
-# 🎓 Student Management System
+# Student Management System
 
-Isang full-stack web application para sa pamamahala ng mga rekord ng estudyante (Create, Read, Update, Delete). Ang proyektong ito ay ginawa gamit ang Laravel para sa matibay na backend API at React (Vite) para sa mabilis at dynamic na frontend interface. Ang data ay naka-imbak sa Supabase (PostgreSQL).
+A full-stack web application for managing student records (Create, Read, Update, Delete). This project is built with Laravel for a robust backend API and React (Vite) for a fast, dynamic frontend interface. Data is stored in Supabase (PostgreSQL).
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Backend:** Laravel 11 (PHP)
 - **Frontend:** React.js (Vite, JavaScript)
@@ -11,24 +11,25 @@ Isang full-stack web application para sa pamamahala ng mga rekord ng estudyante 
 
 ---
 
-## 🛠️ Mga Kailangan (Prerequisites)
+## Prerequisites
 
-Bago simulan, siguraduhing naka-install ang mga sumusunod sa iyong computer:
+Before you start, make sure the following are installed on your computer:
 
-- [PHP](https://www.php.net/) (v8.2 pataas)
-- [Composer](https://getcomposer.org/) (Para sa Laravel packages)
-- [Node.js & npm](https://nodejs.org/) (Para sa React frontend)
+- [PHP](https://www.php.net/) (v8.2 or higher)
+- [Composer](https://getcomposer.org/) (for Laravel packages)
+- [Node.js & npm](https://nodejs.org/) (for the React frontend)
 
 ---
 
-## ⚙️ Paano I-install (Installation Guide)
+## Installation Guide
 
-Sundin ang mga hakbang na ito para ma-setup ang project mula sa simula.
+Follow these steps to set up the project from scratch.
 
-### 1. I-setup ang Backend (Laravel)
+### 1. Set up the Backend (Laravel)
 
-1. I-clone ang repository na ito:
+1. Clone this repository:
+
    ```bash
-   git clone <ilagay-dito-ang-iyong-github-repo-url>
+   git clone <insert-your-github-repo-url-here>
    cd student-management/backend
    ```
